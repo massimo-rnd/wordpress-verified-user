@@ -1,98 +1,69 @@
-![Repo-Image](https://druffko.gg/github-images/verified-user.png)
-
-<h1 align="center">Wordpress Verified User</h1>
-
+![Repo-Image](https://massimo.gg/github-images/wpvu.webp)
 
 <div align="center">
-  <strong>A Wordpress Plugin that adds a checkmark to users with a chosen role</strong>
+
+# Wordpress Verified User (WPVU)
+
+![License](https://img.shields.io/github/license/massimo-rnd/wordpress-verified-user)
+![Issues](https://img.shields.io/github/issues/massimo-rnd/wordpress-verified-user)
+![Forks](https://img.shields.io/github/forks/massimo-rnd/wordpress-verified-user)
+![Stars](https://img.shields.io/github/stars/massimo-rnd/wordpress-verified-user)
+![Last Commit](https://img.shields.io/github/last-commit/massimo-rnd/wordpress-verified-user)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/wordpress-verified-user?include_prereleases)
+
 </div>
 
-<br />
+## 🚀 Overview
 
-<div align="center">
-  <!-- Stability -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/stability-testing-yellow.svg?style=flat-square"
-      alt="Plugin stability" />
-  </a>
-  <!-- NPM version -->
-  <a href="#">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/druffko/wordpress-verified-user?include_prereleases&style=flat-square">
-  </a>
-  <!-- Downloads -->
-  <a href="#">
-    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/druffko/wordpress-verified-user/total?style=flat-square">
-  </a>
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://github.com/druffko/wordpress-verified-user/releases">
-      Download
-    </a>
-    <span> | </span>
-    <a href="https://wp.druffko.gg/author/druffko/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/druffko/wordpress-verified-user/issues">
-      Issues
-    </a>
-  </h3>
-</div>
-
-<div align="center">
-  <sub>The little plugin that can. Built with ❤︎ by
-  <a href="https://druffko.gg">druffko</a> and
-  <a href="https://github.com/druffko/wordpress-verified-user/graphs/contributors">
-    contributors
-  </a>
-</div>
-
-## Table of Contents
-- [Feature(s)](#features)
-- [Usage](#usage)
-- [Make it better](#make-it-better)
-- [More Info](#more-info)
-
-
-## Features
 This Plugin enables you to "verify" users on your Wordpress Website.
 
 It adds a Checkmark next to the users name, just like on platforms like Twitter or Instagram.
 
 The checkmark is supplied to users belonging to a role you choose.
 
-## Usage
+## 🎯 Features
+
+- Add's "Verified" Badge to every user with a set role
+- Verified Role customizable
+
+## 💻 Usage
+
 After installing the Plugin you'll get a "Verified Checkmark" Page under "Settings" in your Wordpress admin dashboard. In there you can choose the role that should receive the checkmark.
 
-## More info
-### Why isn't this plugin on Wordpress.org?
-Well, honestly, I am just too lazy to do it. Maybe it'll be on there some time.
+## 🚧 Roadmap
+
+- [ ] Compatibility for more Themes
+
+Check out the [open issues](https://github.com/massimo-rnd/wordpress-verified-user/issues) for more.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/massimo-rnd/wordpress-verified-user/issues).
+
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📊 Repository Metrics
+
+![Repo Size](https://img.shields.io/github/repo-size/massimo-rnd/wordpress-verified-user)
+![Contributors](https://img.shields.io/github/contributors/massimo-rnd/wordpress-verified-user)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/massimo-rnd/wordpress-verified-user)
 
 ---
 
-## Contributing
+### 📞 Contact
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/wordpress-verified-user
-
-Feel free to reach out if you have any questions or suggestions!
+For any inquiries, feel free to reach out:
+- email: [hi@massimo.gg](mailto:hi@massimo.gg)
+- X: [massimo-rnd](https://x.com/massimo-rnd)
+- [Discord](https://discord.gg/wmC5AA6c)
